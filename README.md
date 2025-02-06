@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Simple%is%the%Best)
+![header](https://capsule-render.vercel.app/api?text=Simple%20is%20the%20Best)
 
 - 👋 안녕하세요 백엔드 개발자를 향해 나아가는 정승원입니다
 
