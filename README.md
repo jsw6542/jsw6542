@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Simple is the Best </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 간단한 것이 최고다 라는 생각을 가지고 개발에 임하는 신입 개발자입니다. </li> 보기에 간단해야 하고, 사용하기에 간단해야 제가 가진 의도를 잘 전달 할 수 있다고 생각하기 때문입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 간단한 것이 최고다!라는 생각을 가지고 개발에 임하는 신입 개발자입니다. </li> 보기에 간단해야 하고, 사용하기에 간단해야 제가 가진 의도를 잘 전달 할 수 있다고 생각하기 때문입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
